@@ -23,7 +23,7 @@
 
 4.  RUN
     ```sh
-    docker logs vaccine-app -f
+    docker logs citizen_app -f
     ```
 
 ## Test the endpoint
