@@ -1,0 +1,75 @@
+[
+    {
+        "state": "Abia",
+        "lgas": [
+            {
+                "lga": "Aba North",
+                "wards": [
+                    "Ariara Market",
+                    "Eziama",
+                    "Industrial Area",
+                    "Ogbor I",
+                    "Ogbor II",
+                    "Old Aba GRA",
+                    "Osusu I",
+                    "Osusu II",
+                    "St. Eugenes",
+                    "Umuogor",
+                    "Umuola",
+                    "Uratta"
+                ]
+            },
+            {
+                "lga": "Aba South",
+                "wards": [
+                    "Aba River",
+                    "Aba Town Hall",
+                    "Asa",
+                    "Ekeoha",
+                    "Enyimba",
+                    "Eziukwu",
+                    "Gloucester",
+                    "Igwebuike",
+                    "Mosque",
+                    "Ngwa",
+                    "Ohazu I",
+                    "Ohazu II"
+                ]
+            },
+            {
+                "lga": "Arochukwu",
+                "wards": [
+                    "Arochukwu I",
+                    "Arochukwu II",
+                    "Arochukwu III",
+                    "Eleoha Ihechiowa",
+                    "Ikwun Ihechiowa",
+                    "Isu",
+                    "Ohaeke",
+                    "Ohafor I",
+                    "Ohafor II",
+                    "Ovukwu",
+                    "Ututu"
+                ]
+            },
+            {
+                "lga": "Bende",
+                "wards": [
+                    "Amankalu/Akoliufu",
+                    "Bende",
+                    "Igbere A",
+                    "Igbere B",
+                    "Item A",
+                    "Item B",
+                    "Item C",
+                    "Itumbauzo",
+                    "Ozuitem",
+                    "Ugwueke/Ezeukwu",
+                    "Umu - Imenyi",
+                    "Umuhu / Ezechi",
+                    "Uzuakoli"
+                ]
+            }
+        ]
+    }
+]
